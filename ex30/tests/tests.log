@@ -1,0 +1,4 @@
+DEBUG tests/ex29_tests.c:65: ----- RUNNING: ./tests/ex29_tests
+DEBUG tests/ex29_tests.c:57: 
+----- test_dlopen
+[ERROR] (tests/ex29_tests.c:24: errno: None) Failed to open the library to test.
